@@ -2,7 +2,7 @@
 
 This is an app that can:
 
-* take (some) keyboard events  to display colorful circles
+* take some keyboard events (alphabets) to display colorful circles.
 
 ## Live example
 
